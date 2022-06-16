@@ -1,4 +1,6 @@
 # Introdução ao Flex Box
+
+
 1. Conhecer estrutura básica
 
 2. Entender a diferença entre Flex Container e Flex Item
@@ -13,7 +15,7 @@ Flex Container ele é a tag que envolve os itens, será nela que iremos aplicar 
 
 ·     Display
 
-·     Flex-direction
+·     Fex-direction
 
 ·     Flex-wrap
 
@@ -43,7 +45,11 @@ Flex Container ele é a tag que envolve os itens, será nela que iremos aplicar 
 
 ·     Column-reverse: ordenação de baixo pra cima.
 
+ 
 
+ 
+
+ 
 
 **Flex-wrap** é a propriedade que define se os itens devem ou não quebrar a linha.
 
@@ -53,7 +59,7 @@ Flex Container ele é a tag que envolve os itens, será nela que iremos aplicar 
 
 ·     Wrap-reverse: permite a quebra de linha no sentido contrário.
 
-
+ 
 
 **Flex-Flow** é um atalho pra as propriedades flex-direction e flex-wrap.
 
@@ -91,8 +97,6 @@ Variações:
 
 ·     **Flex-end:** alinhamento dos itens no final.
 
-
-
 **Estrutura Align Content:** é a propriedade responsável por tratar o alinhamento das linhas do container em relação ao eixo vertical do container.
 
 Precisamos que o container utilize quebra de linhas (precisa que o container tenha o flex-wrap com o modo wrap), e a altura do container seja maior que a soma das linhas dos itens.
@@ -110,5 +114,44 @@ Precisamos que o container utilize quebra de linhas (precisa que o container ten
 ·     **Space between:** cria um espaço igual entre os elementos.
 
 ·     **Space around:** os espaçamentos do meio são duas vezes maiores que o inicial e final.
+
+**Estrutura Flex Grow:** Define a proporcionalidade de crescimentos dos itens, respeitando o tamanho de seus conteúdos internos.
+ **OBS:** não irá funcionar caso tenhamos adicionado Justify-content ao nosso flex container.
+
+ 
+
+**Estrutura Flex Basis:** É a propriedade que estabelece o tamanho inicial do item antes das distribuições de espaço restante dentro dele, usando como base o conteúdo interno disposto.
+
+Valores possíveis
+
+·     **Auto:** caso o item não tenha tamanho, este será proporcional ao conteúdo do item.
+
+·     **Px, %, em...:** São valores exatos previamente definidos.
+
+·     **0 (zero):** terá relação com a definição flex-grow.
+
+ 
+
+**Estrutura Flex Shrink:** É a propriedade que estabelece a capacidade de redução ou compressão do tamanho de um item.
+
+**Estrutura Flex** Essa propriedade é um atalho ou abreviação de escrita para as propriedades: Grow, Shrink e Basis. Ou seja, usando apenas o Flex: 1 seria a mesma coisa que ter um Grow = 1, Shrink= 1, Basis = 0;
+
+**Estrutura Order:** É a propriedade vai lidar diretamente com a ordenação aos itens.
+
+**Estrutura Align-Self:** É a propriedade que estabelece o alinhamento de mofo individual sobre um determinado item.
+
+**Valores possíveis:**
+
+·     **Auto:** Valor padrão.
+
+·     **Flex-start:** Início.
+
+·     **Flex-end:** Final.
+
+·     **Center:** Centro.
+
+·     **Stretch:** Ocupa todo espaço.
+
+·     **Baseline:** Utiliza a linha base da tipologia.
 
  
