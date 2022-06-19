@@ -12,9 +12,25 @@ DIO Santander Bootcamp Fullstack  Tópicos de estudos:
 
   ## Introdução ao JavaScript
 
-  
+  * ### Sintaxe e Operadores
 
-  
+  * ### Variáveis e Tipos
 
+  * ### Funções
+  
+  * ### Coleções
+  
+  * ### Map, Filter e Reduce
+  
+  * ### Debuggin e Error Handing
+  
+  * ### JavaScript Assíncrono
+  
+  * ### Orientação a Objetos
+  
+  * 
+  
+  
+  
   
 
