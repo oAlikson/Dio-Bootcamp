@@ -34,6 +34,10 @@ DIO Santander Bootcamp Fullstack  Tópicos de estudos:
   
   * ### Métodos
   
-  * 
+  * ### Lógica condicional
+
+  * ### Estruturas de Repetição
+
+  * ### Collections
 
 ​	
