@@ -39,5 +39,15 @@ DIO Santander Bootcamp Fullstack  Tópicos de estudos:
   * ### Estruturas de Repetição
 
   * ### Collections
+  
+  * ### Tratamento de Exceções em JAVA
+  
+  * ### Debugging JAVA
+  
+  * ### Programação Orientada a Objetos
+  
+  * ### Criando um Banco Digital com JAVA e Orientação a Objetos
+  
+    
 
 ​	
