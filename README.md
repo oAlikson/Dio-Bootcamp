@@ -28,7 +28,15 @@ DIO Santander Bootcamp Fullstack  Tópicos de estudos:
 
 * ### Orientação a Objetos
 
+* ### Trabalhando com Módulos em JavaScript
 
+* ### Manipulando a D.O.M com JavaScript
+
+* ### Introdução ao TypeScript: Explorando Classes, Tipos e Interfaces
+
+* ### Introdução Prática ao TypeScript
+
+  
 
 ## *Introdução ao Java;*
 
