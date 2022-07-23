@@ -36,6 +36,32 @@ DIO Santander Bootcamp Fullstack  Tópicos de estudos:
 
 * ### Introdução Prática ao TypeScript
 
+  ## *Angular;
+  
+  * ### Introdução ao Angular 8
+  
+  * ### Trabalhando com páginas SPA
+  
+  * ### Arquiteturas de componentes e a gestão da complexidade no front-end
+  
+  * ### Instalando e Preparando o Angular
+  
+  * ### Explorando Diretivas com Angular
+  
+  * ### Implementando Serviços e Injeção de Dependências
+  
+  * ### Serviços Assíncronos
+  
+  * ### Data Binding
+  
+  * ### Componentes
+  
+  * ### Criação de Pipes
+  
+  * ### Desafios Intermediários
+  
+  * ### Bookstore
+  
   
 
 ## *Introdução ao Java;*
